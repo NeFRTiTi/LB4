@@ -1,0 +1,10 @@
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\bin\Debug\Lab4(2).exe.config
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\bin\Debug\Lab4(2).exe
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\bin\Debug\Lab4(2).pdb
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\bin\Debug\INIDLL.dll
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\bin\Debug\INIDLL.pdb
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\obj\Debug\Lab4(2).csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\obj\Debug\Lab4(2).csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\obj\Debug\Lab4(2).csproj.CopyComplete
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\obj\Debug\Lab4(2).exe
+C:\Users\Иван\source\repos\Lab4(2)\Lab4(2)\obj\Debug\Lab4(2).pdb

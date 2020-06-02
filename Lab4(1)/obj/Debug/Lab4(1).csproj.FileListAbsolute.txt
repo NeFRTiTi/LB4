@@ -1,0 +1,14 @@
+C:\Users\Иван\source\repos\Lab4(1)\Lab4(1)\bin\Debug\Lab4(1).exe.config
+C:\Users\Иван\source\repos\Lab4(1)\Lab4(1)\bin\Debug\Lab4(1).exe
+C:\Users\Иван\source\repos\Lab4(1)\Lab4(1)\bin\Debug\Lab4(1).pdb
+C:\Users\Иван\source\repos\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).exe
+C:\Users\Иван\source\repos\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).pdb
+C:\Users\Иван\source\repos\Lab4.1\Lab4(1)\bin\Debug\Lab4(1).exe.config
+C:\Users\Иван\source\repos\Lab4.1\Lab4(1)\bin\Debug\Lab4(1).exe
+C:\Users\Иван\source\repos\Lab4.1\Lab4(1)\bin\Debug\Lab4(1).pdb
+C:\Users\Иван\source\repos\Lab4.1\Lab4(1)\obj\Debug\Lab4(1).csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Lab4.1\Lab4(1)\obj\Debug\Lab4(1).csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lab4.1\Lab4(1)\obj\Debug\Lab4(1).exe
+C:\Users\Иван\source\repos\Lab4.1\Lab4(1)\obj\Debug\Lab4(1).pdb
